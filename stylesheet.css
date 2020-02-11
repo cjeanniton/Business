@@ -2,8 +2,11 @@
 /* CSS Document */
 
 body {background-color: #323332}
-h1 {color: #B1B1B0; font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; text-decoration: underline}
-h2 {color: #1F201F; font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"}
-div.car-summary {font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"}
-div.sidebar, div.contact-block {font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"}
-a {font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"}
+div.name {font-size: 60px; color: #B1B1B0; font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"; font-style: oblique}
+h2 {color: #1F201F; font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"}
+div.car-summary {font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"}
+div.sidebar, div.contact-block {font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"}
+a {font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"}
+div.navi {font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"}
+div.description-title {color: #DE5759; font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"; font-size: 40px}
+div.description {font-family:  Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"; font-size: 30px}
